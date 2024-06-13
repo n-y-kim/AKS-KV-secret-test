@@ -1,0 +1,2 @@
+azure-identity==1.6.1
+azure-keyvault-secrets==4.3.0
